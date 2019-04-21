@@ -1,3 +1,3 @@
 # Midterm
 data
-![wow](C:\Users\Donut\Downloads\codefood.jpg)
+![wow](images/codefood.jpg)

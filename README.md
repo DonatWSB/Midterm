@@ -1,3 +1,3 @@
 # Midterm
 data
-![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![Google ](https://drive.google.com/file/d/1MvghQVHBhLpWDp2r6QRxi7E4sXs_TQyu/view?usp=sharing)

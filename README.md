@@ -1,3 +1,3 @@
 # Midterm
 data
-![Google ](https://drive.google.com/drive/u/0/my-drive/codefood.jpg)
+![Google ](https://drive.google.com/open?id=1MvghQVHBhLpWDp2r6QRxi7E4sXs_TQyu/codefood.jpg)

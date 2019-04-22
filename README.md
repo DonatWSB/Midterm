@@ -1,3 +1,3 @@
 # Midterm
 data
-![wow](images/codefood.jpg)
+![](images\codefood.jpg)

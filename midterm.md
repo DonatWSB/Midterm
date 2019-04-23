@@ -41,6 +41,7 @@ Link: https://www.wireshark.org/download.html
 ![](08.jpg)
 
 สามารถดูข้อมูล IPv4 ได้จากตรงนี้ ว่าความยาวเท่าไหร่ 
+
 IP ต้นทาง และ IP ปลายทาง คือเลขอะไร
 
 ![](09.jpg)
